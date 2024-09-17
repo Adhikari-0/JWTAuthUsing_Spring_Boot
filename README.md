@@ -1,3 +1,6 @@
+<h2> Backend
+</h2>
+
 <h3> The API must expose routes where some are accessible without authentication while others require one. Below are the routes: </h3><br/>
 
 [POST] /auth/signup → Register a new user <br/>
