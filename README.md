@@ -1,4 +1,4 @@
-#The API must expose routes where some are accessible without authentication while others require one. Below are the routes:
+<h1>The API must expose routes where some are accessible without authentication while others require one. Below are the routes:</h1>
 
 [POST] /auth/signup → Register a new user
 [POST] /auth/login → Authenticate a user
