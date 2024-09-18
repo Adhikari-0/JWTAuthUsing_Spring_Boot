@@ -9,3 +9,5 @@
 [GET] /users → Retrieve the current authenticated user <br/>
 
 The routes “/auth/signup” and “/auth/login” can be accessed without authentication while “users/me” and “users” require to be authenticated.
+
+# You can expand the application without doing much more things
