@@ -1,4 +1,4 @@
-package com.tericcabrel.authapi;
+package com.authapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
