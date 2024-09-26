@@ -12,7 +12,7 @@
 	<groupId>com.authapi</groupId>
 	<artifactId>Auth-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AuthUsingMediup</name>
+	<name>JWTAuthUsing_Spring_Boot</name>
 	<description>Spring Boot project for Auth</description>
 	<url />
 	<licenses>
